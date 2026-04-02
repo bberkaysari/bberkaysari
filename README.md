@@ -43,16 +43,19 @@
 ⚡ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,docker,postgres,linux,git" /> </p>
 📊 Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=bberkaysari&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" /> </p>
 🧠 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberkaysari&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+YOUR_NAME;Software+Engineer;Clean+Code+Lover;Building+Cool+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Berkay;Software+Engineer;Clean+Code+Lover;Building+Cool+Things+🚀" />
 </p>
 
 ---
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+
+
+<p align="center"> <img src="https://github.com/bberkaysari/bberkaysari/blob/output/github-contribution-grid-snake.svg" /> </p>
