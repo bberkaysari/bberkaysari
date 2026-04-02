@@ -1,4 +1,4 @@
-<!-- HERO / TYPING -->
+<!-- TYPING HEADER -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Berkay+Sarı;Software+Engineer;Backend+%26+System+Design;Clean+Code+Enthusiast+🚀" />
@@ -16,8 +16,8 @@
 
 * 💼 Backend-focused **Software Engineer**
 * ⚙️ Passionate about **system design & scalable architectures**
-* 🚀 Building modern applications with clean code principles
-* 🧩 Strong interest in **performance & problem solving**
+* 🚀 Working with modern web technologies
+* 🧩 Problem solving & performance oriented
 
 ---
 
@@ -45,8 +45,8 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/bberkaysari?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bberkaysari&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/bberkaysari">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bberkaysari&repo=bberkaysari&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/bberkaysari/bberkaysari/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bberkaysari/bberkaysari/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -71,10 +71,10 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bberkaysari/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_MAIL@gmail.com">
+  <a href="mailto:bberkaysari0@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
