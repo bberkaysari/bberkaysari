@@ -40,15 +40,12 @@
 
 ---
 
-## 🧩 Featured Projects
-<p align="center">
-  <a href="https://github.com/bberkaysari/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/USERNAME/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+⚡ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,docker,postgres,linux,git" /> </p>
+📊 Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" /> </p>
+🧠 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 <!-- TYPING ANIMATION -->
