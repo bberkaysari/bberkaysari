@@ -1,61 +1,80 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Berkay Sarı</h1>
-<h3 align="center">Software Engineer | Building clean & scalable systems</h3>
+<!-- HERO / TYPING -->
 
 <p align="center">
-  <a href="https://github.com/bberkaysari">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Berkay+Sarı;Software+Engineer;Backend+%26+System+Design;Clean+Code+Enthusiast+🚀" />
+</p>
+
+<h3 align="center">Building scalable systems & clean architectures</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bberkaysari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 💼 Software Engineer focused on **scalable backend & clean architecture**
-- 🚀 Currently working on **modern web technologies**
-- 🧩 علاقه: Problem solving & system design
-- ⚡ Clean code > clever code
+
+* 💼 Backend-focused **Software Engineer**
+* ⚙️ Passionate about **system design & scalable architectures**
+* 🚀 Building modern applications with clean code principles
+* 🧩 Strong interest in **performance & problem solving**
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,ts,js,react,nodejs,python,docker,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,ts,js,react,nodejs,python,docker,postgres,redis,linux,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bberkaysari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberkaysari&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bberkaysari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bberkaysari&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberkaysari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Activity Streak
+## 🧩 Featured Projects
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bberkaysari&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/bberkaysari?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bberkaysari&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,docker,postgres,linux,git" /> </p>
-📊 Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=bberkaysari&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" /> </p>
-🧠 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberkaysari&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+## 🐍 Contribution Activity
 
----
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Berkay;Software+Engineer;Clean+Code+Lover;Building+Cool+Things+🚀" />
+  <img src="https://github.com/bberkaysari/bberkaysari/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+## 💡 Dev Quote
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<p align="center"> <img src="https://github.com/bberkaysari/bberkaysari/blob/output/github-contribution-grid-snake.svg" /> </p>
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_MAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
